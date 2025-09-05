@@ -6,3 +6,6 @@ Aceita até controle de 15 máquinas, pegando o status de on/off.
 Permite controlar on/off cada máquina.   
 Permite controlar a temperatura de cada máquina. 
 
+
+
+Obrigado Felipe pela ajuda nesse driver! 
